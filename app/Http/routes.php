@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('/test', function(){
 	return 'worked'; 
 });
+
+Route::get('/install', function(){
+	return  "<a href='itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/Clevesol/laravel-ex/master/storage/app/public/app.plist'>downlaod Custom SMS</a>";
+});
