@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.8.102:8080/downloadFile/CustomSMS.ipa</string>
+                    <string>https://github.com/Clevesol/laravel-ex/raw/master/storage/app/public/CustomSMS.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
