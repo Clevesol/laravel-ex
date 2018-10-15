@@ -38,7 +38,10 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">Custom SMS Pro</div>
+                <a style='font-size:28px;width:100%;text-align:center' href='itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/Clevesol/laravel-ex/master/storage/app/public/manifest.plist'>Download Custom SMS App Adhoc Version</a>
+
+                <a style='font-size:28px;width:100%;text-align:center' href='itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/Clevesol/laravel-ex/master/storage/app/public/appstore/manifest.plist'>Download Custom SMS App</a>
             </div>
         </div>
     </body>
