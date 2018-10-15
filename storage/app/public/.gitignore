@@ -1,0 +1,5 @@
+*
+!.gitignore
+!*.ipa
+!*.plist
+!/appstore
