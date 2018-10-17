@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CustomSMS.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4606631E61CB7665A525709EB160C696E4E6FB39</string>
+				<key>dateExpires</key>
+				<string>10/14/19</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>4W6FQ2G6M9.HANDEEBAN-SELVADURAI</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4W6FQ2G6M9</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>CustomSMS.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>58ea6548-0003-48c4-9a9b-b0359de10704</string>
+				<key>name</key>
+				<string>ad_hoc_distribution_new_oct_15</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4W6FQ2G6M9</string>
+				<key>name</key>
+				<string>Handeeban Selvadurai</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
