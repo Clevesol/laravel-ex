@@ -23,7 +23,7 @@
 		<string>final_distribution_profile</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>4606631E61CB7665A525709EB160C696E4E6FB39</string>
+	<string>iPhone Distribution</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
