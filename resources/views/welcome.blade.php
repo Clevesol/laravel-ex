@@ -32,7 +32,7 @@
             }
 
             .title {
-                font-size: 96px;
+                font-size: 126px;
                 color: black;
                 font-weight: bold;
             }
@@ -43,7 +43,7 @@
             <div class="content">
                 <img style="width: 50%" src="{{asset('favicon.png')}}">
                 <div class="title">CustomSMS Pro</div>
-                <a style='font-size:28px;width:100%;text-align:center; color: green; font-weight: bold' href='itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/Clevesol/laravel-ex/master/storage/app/public/manifest.plist'>Download Custom SMS App Adhoc Version</a>
+                <a style='font-size:108px;width:100%;text-align:center; color: green; font-weight: bold; text-decoration: none' href='itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/Clevesol/laravel-ex/master/storage/app/public/manifest.plist'>Download Custom SMS App Adhoc Version</a>
 
                 <!-- <a style='font-size:28px;width:100%;text-align:center' href='itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/Clevesol/laravel-ex/master/storage/app/public/appstore/manifest.plist'>Download Custom SMS App</a> -->
             </div>
