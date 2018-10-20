@@ -3,6 +3,7 @@
     <head>
         <title>CustomSMS Pro | SM Message tool</title>
 
+        <link rel="icon" type="image/png" href="{{asset('favicon.png')}}" />
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
         <style>

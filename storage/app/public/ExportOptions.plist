@@ -20,10 +20,10 @@
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>HANDEEBAN-SELVADURAI</key>
-		<string>ad_hoc_distribution_new_oct_15</string>
+		<string>final_distribution_profile</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>iPhone Distribution</string>
+	<string>4606631E61CB7665A525709EB160C696E4E6FB39</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
