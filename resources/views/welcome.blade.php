@@ -32,17 +32,19 @@
 
             .title {
                 font-size: 96px;
+                color: black;
+                font-weight: bold;
             }
         </style>
     </head>
-    <body>
+    <body style="background: #e5eae7;">
         <div class="container">
             <div class="content">
-                <img src="{{asset('assets/imgs/sms.png')}}">
+                <img style="width: 50%" src="{{asset('favicon.png')}}">
                 <div class="title">CustomSMS Pro</div>
-                <a style='font-size:28px;width:100%;text-align:center' href='itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/Clevesol/laravel-ex/master/storage/app/public/manifest.plist'>Download Custom SMS App Adhoc Version</a>
+                <a style='font-size:28px;width:100%;text-align:center; color: green; font-weight: bold' href='itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/Clevesol/laravel-ex/master/storage/app/public/manifest.plist'>Download Custom SMS App Adhoc Version</a>
 
-                <a style='font-size:28px;width:100%;text-align:center' href='itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/Clevesol/laravel-ex/master/storage/app/public/appstore/manifest.plist'>Download Custom SMS App</a>
+                <!-- <a style='font-size:28px;width:100%;text-align:center' href='itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/Clevesol/laravel-ex/master/storage/app/public/appstore/manifest.plist'>Download Custom SMS App</a> -->
             </div>
         </div>
     </body>
