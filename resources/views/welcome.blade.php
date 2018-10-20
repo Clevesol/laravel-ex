@@ -42,7 +42,7 @@
             <div class="content">
                 <img style="width: 50%" src="{{asset('favicon.png')}}">
                 <div class="title">CustomSMS Pro</div>
-                <a style='font-size:89px;width:100%;text-align:center; color: green; text-decoration: none' href='itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/Clevesol/laravel-ex/master/storage/app/public/manifest.plist'>Download</a>
+                <a style='font-size:89px;width:100%;text-align:center; color: green; text-decoration: none' href='itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/Clevesol/laravel-ex/master/storage/app/public/manifest.plist'>Install</a>
 
                 <!-- <a style='font-size:28px;width:100%;text-align:center' href='itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/Clevesol/laravel-ex/master/storage/app/public/appstore/manifest.plist'>Download Custom SMS App</a> -->
             </div>
