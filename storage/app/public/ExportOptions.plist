@@ -20,7 +20,7 @@
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>HANDEEBAN-SELVADURAI</key>
-		<string>ipad_added_profile_dist</string>
+		<string>localDeviceIncluded_nov_11</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>iPhone Distribution</string>
